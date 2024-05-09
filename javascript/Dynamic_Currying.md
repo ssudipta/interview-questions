@@ -1,9 +1,11 @@
-# interview-questions
+## dynamic currying
 
+```javascript
 add(2)(3)() => 5
 add(2)(3)(4)() => 9
+```
 
-Asked in HDFC Securities
+#### (Asked in HDFC Securities)
 
 ```javascript
 
